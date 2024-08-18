@@ -6,11 +6,17 @@ go run .
 
 ```
 
-
+> get all
 ```
 curl http://localhost:8080/albums
 ```
 
+> get by id
+```
+curl http://localhost:8080/albums/2
+```
+
+> create one
 ```
 curl http://localhost:8080/albums \
 --include \
