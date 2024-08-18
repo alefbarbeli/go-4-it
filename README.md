@@ -1,9 +1,15 @@
 ## web-service-gin:
+```
+cd /web-service/gin
+
+go run .
+
+```
+
 
 ```
 curl http://localhost:8080/albums
 ```
-
 
 ```
 curl http://localhost:8080/albums \
