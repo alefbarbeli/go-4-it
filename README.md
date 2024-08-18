@@ -1,4 +1,4 @@
-## To test it:
+## web-service-gin:
 
 ```
 curl http://localhost:8080/albums
